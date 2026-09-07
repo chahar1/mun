@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.env
+server/aurex-data.json
+server/aurex-data.json.wal
